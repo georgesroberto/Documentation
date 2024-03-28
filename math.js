@@ -14,7 +14,7 @@ const add = (num1, num2) => {
 
 const subtract = (num1, num2) => {
   // Subtract num1 from num 2 and store it in a variable output
-  let output = num2 - num2;
+  let output = num2 - num1;
 
   // Return the output
   return output;
